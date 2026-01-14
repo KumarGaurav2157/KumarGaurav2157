@@ -19,7 +19,7 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 
 ### 🚀 What I Do
 - **Full-Stack Development:** Creating end-to-end web solutions using modern technologies like React, Node.js, and MongoDB
-- **Competitive Programming:** Consistently ranked in top percentiles across major platforms with 1300+ problems solved
+- **Competitive Programming:** Consistently ranked in top percentiles across major platforms with 1000+ problems solved
 - **Problem Solving:** Passionate about algorithmic thinking and optimization challenges
 - **Community Contribution:** Active in tech communities as a problem setter and mentor
 
@@ -30,7 +30,8 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 - 🎯 Seeking full-time software engineering opportunities
 
 ### 📈 Quick Stats
-- **🏆 LeetCode Rating:** 1941 (Top 5%) 
+- **🏆 LeetCode Rating:** 1941 (Top 5%)
+- **🏆 Codeforces Rating:** 1451 
 - **🎯 Problem Solving:** 1000+ Algorithmic Problems Solved
 - **🏢 Professional Experience:** 3+ Months in Industry
 - **🎓 Academic Performance:** 7.74 CGPA at IIITM Gwalior
@@ -51,6 +52,27 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 
 **Relevant Coursework:** Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks
 
+## 💼 Professional Experience
+
+### **Postgraduate Researcher ** | *ABV-Indian Institute of Information Technology and Management* 
+*May 2025 – Dec 2025 | On-site, Gwalior, Madhya Pradesh*
+
+- ⚡ Designed and theoretically developed a robust kernel adaptive filtering algorithm, EHCAF-VC (Exponential Hyperbolic Cosine Adaptive Filter with Variable Center), for nonlinear system identification in the presence of non-zero-mean impulsive noise
+- ⚡ The work extends the conventional EHCAF algorithm by introducing a dynamic variable-center mechanism to handle biased and asymmetric error distributions commonly observed in real-world systems.
+
+### **Undergraduate Researcher ** | *ABV-Indian Institute of Information Technology and Management* 
+*May 2024 – Sep 2024 | On-site, Gwalior, Madhya Pradesh*
+
+- ⚡ Worked on a lung cancer detection system using machine learning techniques to assist in early and accurate diagnosis.
+- ⚡ The project involved data preprocessing, feature extraction, and exploratory analysis on medical datasets to handle noise, missing values, and class imbalance.
+- ⚡ Multiple classification models were implemented and evaluated to distinguish between malignant and benign cases based on clinical and imaging-related features.
+
+### **Full stack Developer ** | *Lvl Alpha Pvt Ltd* 
+*May 2024 – Aug 2024 | Remote, Pune, Maharashtra*
+
+- ⚡ Engineered a full-stack Tool Tracking Management System (TTMS), reducing asset misplacement by 25% by leveraging the Google Maps API for real-time location visibility.
+- ⚡ Fortified application security by implementing a JWT-based authentication framework and validating all API endpoints with Postman, cutting vulnerabilities by 25%. 
+- ⚡ Optimized the system architecture for high scalability by applying proven software design patterns, which boosted request throughput by 29%.
 ---
 
 <div align="center">
