@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kumar Gaurav
+# Hello 👋, I'm Kumar Gaurav
 
 **Full Stack Developer | Competitive Programmer | Software Engineer**
 
